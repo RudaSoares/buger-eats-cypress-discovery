@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Rudá Soares",
+        "cpf": "00000014141",
+        "email": "ruda@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "08240210",
+            "street": "Rua São João do Cariri",
+            "number": "278",
+            "details": "House 7",
+            "district": "Jardim Norma",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Eric Okasaki",
+        "cpf": "x00000141AA",
+        "email": "eric@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Rudá Soares",
+        "cpf": "00000014141",
+        "email": "ruda.com.br",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "08240210",
+            "street": "Rua São João do Cariri",
+            "number": "278",
+            "details": "House 7",
+            "district": "Jardim Norma",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
